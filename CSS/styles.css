@@ -56,8 +56,13 @@ body {
   font-size: 4rem;
 }
 
+.showcase h2 {
+  font-size: 2rem;
+  padding-bottom: 5px;
+}
+
 .showcase p {
-  font-size: 1.3rem;
+  font-size: 1rem;
 }
 
 .btn {
